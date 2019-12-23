@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 "Nimm ein Littmann, das sind die besten." Das habe ich mehrfach gehört. Und ich persönlich bin bisher zwei Mal dem großen L gefolgt: zunächst hatte ich ein Classic II, dann habe ich ein aus meiner Sicht gutes Angebot wahrgenommen und das Classic II gegen ein Cardiology III eingetauscht.
 
