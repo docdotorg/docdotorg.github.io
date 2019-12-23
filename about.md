@@ -20,4 +20,4 @@ Ich bin Paul, Mitte 30, Medizinstudent kurz vor dem letzten Examen und dann hoff
 -Kochrezepte
 
 ### Kontakt
-XMPP: cpt@anoym.im
+XMPP: cpt@anonym.im
