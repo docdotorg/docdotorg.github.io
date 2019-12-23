@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Stethoskop Vergleichstest
+title: Medizin-Blog
 published: true
 ---
 ## Hier entsteht ein Medizin-Blog
