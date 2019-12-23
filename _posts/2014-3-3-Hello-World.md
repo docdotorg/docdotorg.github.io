@@ -1,6 +1,6 @@
 ---
 layout: post
 title: Stethoskop Vergleichstest
-published: false
+published: true
 ---
 ##Hier entsteht ein Vergleichstest von Stethoskopen
