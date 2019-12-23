@@ -15,7 +15,7 @@ Ich bin Paul, Mitte 30, Medizinstudent kurz vor dem letzten Examen und dann hoff
 
 ### Was dich hier (vermutlich) erwartet
 - Tips zum Bewältigen des Medizinstudiums (Bücher, Equipment, Lerntechniken)
-- Tips zur Doktorarbeit: programme, Typografie und und und
+- Tips zur Doktorarbeit: Programme, Typografie und und und
 - Tips zu Linux, Android Custom Roms
 - Kochrezepte
 
